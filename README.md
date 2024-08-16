@@ -1,0 +1,1 @@
+This model utilizes advanced computer vision techniques to detect and interpret sign language gestures in real time. Aimed at improving communication for the deaf and hard-of-hearing community, it processes input from both live cameras and pre-recorded videos with high accuracy. 
